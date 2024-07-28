@@ -1,1 +1,1 @@
-# maze-generator
+# maze-generator-python
